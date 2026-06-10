@@ -1,0 +1,24 @@
+const instructions = [
+
+{
+    title: "Инвентаризация товара",
+    description: "Порядок проведения ежемесячной инвентаризации.",
+    image: "images/instr1.jpg",
+    link: "https://example.com/inventory"
+},
+
+{
+    title: "Работа с кассой",
+    description: "Пошаговая инструкция по работе с кассой.",
+    image: "images/instr2.jpg",
+    link: "https://example.com/cashbox"
+},
+
+{
+    title: "Прием товара",
+    description: "Как правильно принимать товар на склад.",
+    image: "images/instr3.jpg",
+    link: ""
+}
+
+];
